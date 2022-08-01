@@ -15,7 +15,7 @@ Open MainActivity.java then go to line 21. Type your channel/playlist ID and the
 
 <p>To find out the identity of a playlist, similarly view the playlist in your web browser.You will see playlist ID in the address bar. For example:</p>
 <code>https://www.youtube.com/watch?v=AXiJ0O0pZag&list=PLnM9OenV00xlVx8I5hqtarn7cdVMvBM2o</code>
-<p>The playlist ID is PLnM9OenV00xlVx8I5hqtarn7cdVMvBM2o for this address.</p>
+<p>The playlist ID is <b><i>PLnM9OenV00xlVx8I5hqtarn7cdVMvBM2o</i></b> for this address.</p>
 
 <h4>Type</h4>
 <p>You must specify the correct option from the YOUTUBE_IDTYPE enum according to the id value you entered.</p>
