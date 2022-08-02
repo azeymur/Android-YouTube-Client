@@ -1,12 +1,12 @@
-# Youtube Client
- 
-This project is a native YouTube REST API client for Android.
+# Youtube Client for Android
 
 <img src='https://res.cloudinary.com/dqwntkvge/image/upload/v1659394095/Screenshot_20220802_014634.png'/>
 
+This project is a native YouTube REST API client for Android. It can list and play items on a YouTube channel or playlist.
+
 <h3>Usage</h3>
 
-Open MainActivity.java then go to line 21. Type your channel/playlist ID and the API secret.
+Open MainActivity.java then go to line 21. Type your channel/playlist ID and the API secret. 
 
 <h4>ID</h4>
 <p>ID is either a channel ID or a playlist ID. If you don't know your channel ID, go to your youtube channel from a web browser. You can see your channel ID in the address bar. For example;</p>
